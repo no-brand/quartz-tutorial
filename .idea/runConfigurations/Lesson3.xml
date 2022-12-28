@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Lesson3" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Lesson3" />
+    <module name="quartz-tutorial.main" />
+    <option name="VM_PARAMETERS" value="-Dorg.slf4j.simpleLogger.defaultLogLevel=TRACE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
